@@ -1,2 +1,20 @@
-creditcard.csv
+# Virtual Environment
+.venv/
+venv/
+
+# Dataset
+data/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# macOS
 .DS_Store
